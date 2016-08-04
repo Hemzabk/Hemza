@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES_DISNEY_CHANNEL" tvg-logo="" group-title="ESPAGNE",ES_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/817.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT_PREMIUM_DISNEY_CHANNEL" tvg-logo="" group-title="ITALIA",IT_PREMIUM_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK_DISNEY_CHANNEL" tvg-logo="" group-title="UK",UK_DISNEY_CHANNEL
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1111.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISNEY_XD" tvg-logo="" group-title="FRANCE",FR_DISNEY_XD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT_DISNEY_XD" tvg-logo="" group-title="ITALIA",IT_DISNEY_XD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1342.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK_DISNEY_XD" tvg-logo="" group-title="UK",UK_DISNEY_XD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1090.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES_DISNEY_XD" tvg-logo="" group-title="ESPAGNE",ES_DISNEY_XD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/741.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT_DISNEY_JUNIOR" tvg-logo="" group-title="PORTUGAI",PT_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT_PREMIUM_DISNEY_JUNIOR" tvg-logo="" group-title="ITALIA",IT_PREMIUM_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1805.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT_DISNEY_JUNIOR" tvg-logo="" group-title="ITALIA",IT_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/960.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE_DISNEY_JUNIOR" tvg-logo="" group-title="DEUTCH",DE_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/998.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK_DISNEY_JUNIOR" tvg-logo="" group-title="UK",UK_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1088.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES_DISNEY_JUNIOR" tvg-logo="" group-title="ESPAGNE",ES_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/784.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISNEY_JUNIOR" tvg-logo="" group-title="FRANCE",FR_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/853.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISNEY_CINEMAGIC" tvg-logo="" group-title="FRANCE",FR_DISNEY_CINEMAGIC
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/901.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT_PREMIUM_DISNEY_JUNIOR" tvg-logo="" group-title="ITALIA",IT_PREMIUM_DISNEY_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1805.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT_PREMIUM_CARTOON_NETWORK" tvg-logo="" group-title="ITALIA",IT_PREMIUM_CARTOON_NETWORK
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1336.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_CARTOON_NETWORK" tvg-logo="" group-title="ARABE",AR_CARTOON_NETWORK
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_CARTOON_NETWORK_HD" tvg-logo="" group-title="ARABE",AR_CARTOON_NETWORK_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4109.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR_CARTOON_NETWORK_HD" tvg-logo="" group-title="FRANCE",FR_CARTOON_NETWORK_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK_CARTOON_NETWORK" tvg-logo="" group-title="UK",UK_CARTOON_NETWORK
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1092.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR_BOOMERANG_HD" tvg-logo="" group-title="FRANCE",FR_BOOMERANG_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/867.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_NOON_KIDS" tvg-logo="" group-title="ARABE",AR_NOON_KIDS
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4108.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR_NICKELODEON_HD" tvg-logo="" group-title="FRANCE",FR_NICKELODEON_HD
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/881.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK_NICK_JUNIOR" tvg-logo="" group-title="UK",UK_NICK_JUNIOR
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1101.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_TOYOR_AL_JANAH" tvg-logo="" group-title="ARABE",AR_TOYOR_AL_JANAH
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL_FILM_1_COMEDY_KIDS" tvg-logo="" group-title="NL",NL_FILM_1_COMEDY_KIDS
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/822.ts
+

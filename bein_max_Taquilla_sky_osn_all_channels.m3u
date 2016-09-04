@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,BEIN_SPORTS_Soft4sat.com
+#EXTINF:-1,BEIN_SPORTS
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1274.ts
-#EXTINF:-1,BEIN_SPORTS_NEWS_Soft4sat.com
+#EXTINF:-1,BEIN_SPORTS_NEWS
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/454.ts
-#EXTINF:-1,BEIN_SPORTS_1_HD_Soft4sat.com
+#EXTINF:-1,BEIN_SPORTS_1_HD
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/186.ts
-#EXTINF:-1,BEIN_SPORTS_2_HD_Soft4sat.com
+#EXTINF:-1,BEIN_SPORTS_2_HD
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/187.ts
 #EXTINF:-1,AR_BEIN_SPORTS_3_HD
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/188.ts
